@@ -26,7 +26,7 @@ A simple and easy to use YouTube video and audio Downloader written in Python.
 
 - Select the quality you want to download.
 
--Select the path where you want to download.
+- Select the path where you want to download.
 
 - Click on Download button.
 
